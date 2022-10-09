@@ -21,6 +21,12 @@ If you're having trouble with the installation, please check the [Common Issues]
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+Via SSH
+
+wget https://raw.githubusercontent.com/basilmtshali/ndalosnipe-it/master/install.sh
+chmod 744 install.sh
+./install.sh
+
 -----
 ### User's Manual
 For help using Snipe-IT, check out the [user's manual](https://snipe-it.readme.io/docs/overview).
